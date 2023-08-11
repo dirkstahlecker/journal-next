@@ -1,5 +1,3 @@
-// import * as React from 'react';
-
 export class NameReference
 {
     public static isName(word: string): boolean
@@ -16,6 +14,8 @@ export class NameReference
     //TODO: update with the google doc - it's the main source of reference
     //Doc Journal Info, Master List
     //use the convertNames.py helper to copy/paste from the google doc
+
+    //TODO: names with spaces don't work
     public static listOfNames: string[] = [
         "8-ball",
         "aaron",
@@ -770,6 +770,19 @@ export class NameReference
         "zeke",
         "zion",
         "zoe",
+        "zori",
+        "nancy",
+        "bryce",
+        "quint",
+        "keshav",
+        "rui",
+        "shaina",
+        "vani",
+        "sinan",
+        "renee",
+        "payel",
+        "clare",
+        "ellen"
     ]
 }
 

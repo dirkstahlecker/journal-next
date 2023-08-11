@@ -6,3 +6,7 @@ cockroach sql --url "postgresql://dirk@aqua-wyvern-4580.6wr.cockroachlabs.cloud:
 
 
 CREATE TABLE firstlast (id UUID PRIMARY KEY DEFAULT gen_random_uuid(), firstname STRING, lastname STRING);
+
+------------------
+
+git push
