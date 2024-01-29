@@ -118,7 +118,6 @@ caitlin
 caleb
 cali
 camille
-candy
 cara
 carl
 carla
@@ -193,6 +192,7 @@ darcy
 dario
 dave
 david
+deborah
 debra
 dencil
 denise
@@ -587,7 +587,6 @@ patrick
 patty
 paul
 paula
-payel
 payel
 pedro
 peinan
