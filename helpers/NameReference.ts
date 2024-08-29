@@ -97,7 +97,6 @@ export class NameReference
         "beck",
         "beckett",
         "becky",
-        "beers",
         "ben",
         "bennett",
         "bernie",
