@@ -1,6 +1,5 @@
 def main():
   copiedFromSheet = '''
-8-ball
 aaron
 abby
 abigail
@@ -97,6 +96,7 @@ bradford
 bradley
 brandon
 brayden
+brendan
 brent
 brett
 bri
@@ -134,7 +134,6 @@ carter
 cashion
 cassie
 catherine
-cc
 cearston
 ceri
 chalese
@@ -142,6 +141,7 @@ chandler
 charlene
 charles
 charlie
+charlot
 chase
 chennah
 cher
@@ -179,6 +179,7 @@ cory
 crisantha
 cristhian
 curtis
+dad
 dakota
 dakotah
 dalia
@@ -187,11 +188,14 @@ dan
 dana
 dani
 daniel
+daniella
 danielle
 darcy
 dario
 dave
 david
+deb
+deborah
 deborah
 debra
 dencil
@@ -216,6 +220,7 @@ eddie
 eddy
 eduardo
 edwardo
+eileen
 eitan
 elaine
 elena
@@ -242,6 +247,7 @@ erwin
 esme
 ethan
 eunice
+eva
 evan
 evaristo
 everett
@@ -257,6 +263,7 @@ fiona
 fjiona
 flora
 forhan
+fran
 frances
 francesca
 francis
@@ -302,6 +309,7 @@ hayoon
 healy
 heather
 heidi
+helen
 heman
 hemantha
 henderson
@@ -322,6 +330,7 @@ isaac
 isabel
 isabelle
 ishaan
+ittai
 iveel
 ivy
 jack
@@ -377,6 +386,7 @@ john
 johnny
 jon
 jonah
+jonas
 jonathan
 jordan
 jorge
@@ -450,6 +460,7 @@ lani
 laura
 laurel
 lauren
+laurie
 leah
 lealia
 leanne
@@ -474,6 +485,7 @@ lorraine
 lucas
 lucia
 luke
+lulu
 lydia
 lyric
 maartin
@@ -486,6 +498,7 @@ madison
 mady
 mae
 maegan
+maggie
 mal
 malena
 mallory
@@ -597,6 +610,7 @@ phil
 phillip
 phoebe
 phred
+phyllis
 pierre
 piotr
 piper
@@ -680,6 +694,7 @@ sherry
 sheryl
 shinjini
 siegenfield
+siena
 sierra
 sinan
 sira
@@ -746,6 +761,8 @@ trey
 tricia
 tucker
 tyler
+utku
+val
 vani
 varun
 veena
