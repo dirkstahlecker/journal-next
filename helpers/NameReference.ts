@@ -737,7 +737,6 @@ export class NameReference
 "soo jin",
 "sophia",
 "sophie",
-"sophie",
 "sorell",
 "spencer",
 "stan",
